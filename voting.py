@@ -75,4 +75,4 @@ if __name__ == "__main__":
 
     ensemble = Ensemble()
     ensemble.load_data()
-    ensemble.__StackingClassifier__()
+    ensemble.__VotingClassifier__()
